@@ -10,6 +10,7 @@ A standard templated C++ linked list API with standard functionality
 ### Remove methods
 3) void popTail();
 4) void popHead();
+5) void clear();
 
 ### Traverse methods
 5) void print();
