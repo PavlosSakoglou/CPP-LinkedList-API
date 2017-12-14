@@ -1,5 +1,5 @@
 /*
-*	© Superharmonic Technologies
+*	Â© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
 *  ================================================
@@ -12,7 +12,6 @@
 #define LINKED_LIST_HPP
 
 #include <iostream>
-#include <vector>
 
 // Node class
 template <class Type>
