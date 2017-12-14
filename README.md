@@ -1,5 +1,5 @@
 # C++ LinkedList API
-A standard C++ linked list API with standard functionality
+A standard templated C++ linked list API with standard functionality
 
 # Methods
 
@@ -17,3 +17,7 @@ A standard C++ linked list API with standard functionality
 
 ### Reverse method
 7) void reverse();
+
+# Usage
+
+No extra dependencies except STL. Create a new project (console application), include the files, and run it.
