@@ -21,7 +21,6 @@ struct ListNode {
 	ListNode(Type d = 0) : data(d), next(nullptr) {}
 };
 
-
 // LinkedList 
 template <class Type>
 class LinkedList {
@@ -64,7 +63,6 @@ private:
 
 	ListNode<Type> * head;
 };
-
 
 #ifndef LINKED_LIST_CPP
 #include "LinkedList.cpp"
