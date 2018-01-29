@@ -1,5 +1,5 @@
 /*
-*	© Superharmonic Technologies
+*	Â© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
 *  ================================================
@@ -172,10 +172,10 @@ void LinkedList<Type>::reverse() {
 	//       p      c      n
 	//              p      c      n
 	while (next != nullptr) {
-		current->next = previous;		// p <- c
-		previous = current;				// p = c
-		current = next;					// c = n
-		next = next->next;				// n = n->next
+		current->next = previous;	// p <- c
+		previous = current;		// p = c
+		current = next;			// c = n
+		next = next->next;		// n = n->next
 	}
 
 	// Connect last pair and set new head to current
