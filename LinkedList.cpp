@@ -83,7 +83,6 @@ void LinkedList<Type>::popHead() {
 	delete temp;
 }
 
-
 // Remove from the end of the list
 template <class Type>
 void LinkedList<Type>::popTail() {
@@ -182,6 +181,5 @@ void LinkedList<Type>::reverse() {
 	current->next = previous;
 	head = current;
 }
-
 
 #endif // !LINKED_LIST_CPP
