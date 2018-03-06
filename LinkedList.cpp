@@ -2,7 +2,7 @@
 *	© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
-*  ================================================
+*  =================================================
 *
 *	Standard LinkedList API Implementation
 *
